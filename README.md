@@ -1,4 +1,4 @@
-# URMCNet: An Uncertainty Region Modeling and Calibration Network for Power Line Inspection
+# URMCNet: An Uncertainty Region Modeling and Calibration Network for Power Line Inspection - CODE
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)](https://pytorch.org/)
