@@ -24,7 +24,7 @@ Experimental results on the **VITLD** and **TTPLA** datasets demonstrate that UR
 
 ## 🏗️ Architecture
 
-![Process Model](https://github.com/xmaildottor-spec/An-Uncertainty-Region-Modeling-and-Calibration-Network/blob/main/main.png)
+![Process Model](https://github.com/xmaildottor-spec/An-Uncertainty-Region-Modeling-and-Calibration-Network-code/blob/main/main.png)
 
 ---
 
