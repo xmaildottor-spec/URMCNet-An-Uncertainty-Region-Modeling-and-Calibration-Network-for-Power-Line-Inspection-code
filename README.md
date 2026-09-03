@@ -66,9 +66,7 @@ For seamless reproduction of our framework, we provide two pre-processed version
 3. **Preprocessing:** We recommend applying **CLAHE** (Contrast Limited Adaptive Histogram Equalization) to input images to highlight texture details.
 4. **Metrics:** We report the macro metrics evaluated on the original test set.
 
-### TTPLA Dataset Details
-
-In this project, we utilize the **TTPLA (Transmission Tower and Power Line Analysis)** dataset for training and evaluation.
+### ⚠️ TTPLA Dataset Details
 
 #### 1. Access and Download
 | Item | Link / Details |
