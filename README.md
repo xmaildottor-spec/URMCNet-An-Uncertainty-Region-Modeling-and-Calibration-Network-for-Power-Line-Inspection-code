@@ -113,7 +113,7 @@ Due to the inadvertent submission of a draft version during the editing process,
 
 ## 🙏 Acknowledgement
 
-We thank [Multimodal-FFM-TLD](https://github.com/hyeyeon08/Multimodal-FFM-TLD) for providing relevant training/testing data and associated code.
+We thank [Multimodal-FFM-TLD](https://github.com/hyeyeon08/Multimodal-FFM-TLD) for providing relevant data and code.
 
 ## 🚁 Extension: Stereo 3D Reconstruction & UAV Path Planning
 
