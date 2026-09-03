@@ -59,9 +59,7 @@ For seamless reproduction of our framework, we provide two pre-processed version
 | **VITL_Version_1** | [Download Link](https://drive.google.com/file/d/1kqmcpOdlLE_-1iVfQ1icy6lLyR07ONRd/view?usp=sharing) | The **cropped** version of the VITL dataset (256×256 patch format). |
 | **VITL_Version_2** | [Download Link](https://drive.google.com/file/d/1d_-_MB0ywp0thZgr8Y_uy2mLg0KCGqS2/view?usp=sharing) | The **stitched** version of the VITL dataset (512×512 high-resolution format). |
 
-### VITLD Dataset Details
-
-### ⚠️ Important Notice
+### ⚠️ VITLD Dataset Details
 
 1. **Data Grouping:** In the original VITLD dataset, **every four images correspond to one sliced sample**. During testing, ensure images are processed in groups of four in their original order.
 2. **Infrared Images:** IR images in this repo are for **visualization purposes only** and are not used in the network training/testing phases.
