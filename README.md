@@ -99,14 +99,6 @@ We provide the pre-trained weights for **URMCNet-B** and **URMCNet-L** evaluated
 | **TTPLA** | 🚀 **URMCNet-B** | [Download 🔗](https://drive.google.com/drive/folders/1otFweAm1iQv_rUDRxT3b1i4hl-5o6SDZ?usp=sharing) | Pre-trained weights on the TTPLA dataset; Optimized code with fewer params & better metrics |
 | **TTPLA** | 🌟 **URMCNet-L** | [Download 🔗](https://drive.google.com/drive/folders/17j516Jqk-v6SC7mLZQP-8QvJ9PDhkdae?usp=sharing) | Pre-trained weights on the TTPLA dataset; Optimized code with fewer params & better metrics |
 
-### 🛠️ How to Use
-
-1. **Download:** Get the `.pth` (or `.onnx`) files from the links above.
-2. **Directory:** Place the downloaded weights into the `./checkpoints` folder of this project:
-   ```bash
-   mkdir checkpoints
-   # Move the downloaded files here
-
 ## 📚 Corrigendum
 Due to the inadvertent submission of a draft version during the editing process, the following corrections are made:
 ![Network Architecture](https://github.com/xmaildottor-spec/URMCNet-An-Uncertainty-Region-Modeling-and-Calibration-Network-for-Power-Line-Inspection-code/blob/main/IMG.png)
